@@ -1,0 +1,18 @@
+.header .img-container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+        
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+} 
+
+.link:hover{
+    color: red;
+}
